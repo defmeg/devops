@@ -24,7 +24,10 @@ $ yc config list
 $ vim terraform/private.auto.tfvars
 ```
 
-3) Сгенерим ssh ключи: $ ssh-keygen -t rsa
+3) Сгенерим ssh ключи: 
+```
+$ ssh-keygen -t rsa
+```
 
 4) Запкускаем установку Kubernetes кластера
 ```
