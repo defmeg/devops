@@ -27,9 +27,9 @@ $ vim terraform/private.auto.tfvars
 3) Сгенерим ssh ключи: $ ssh-keygen -t rsa
 
 4) Запкускаем установку Kubernetes кластера
-
+```
 $ bash cluster_install.sh
-
+```
 
 5) После установки копируем конфиг kubernetes
 ```
