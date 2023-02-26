@@ -24,7 +24,7 @@ $ yc config list
 $ vim terraform/private.auto.tfvars
 ```
 
-3) Сгенерим ssh ключи: 
+3) Сгенерим ssh ключи 
 ```
 $ ssh-keygen -t rsa
 ```
