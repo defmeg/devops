@@ -7,7 +7,7 @@
   Устанавливаем kubectl - ```$ binenv install kubectl``` \
   Устанавливаем helm - ```$ binenv install helm``` \
   Устанавливаем jq - ```$ sudo apt install jq``` \
-  Устанавливаем pip3 и git - ```$ sudo apt install python3-pip git```
+  Устанавливаем pip3 и git - ```$ sudo apt install python3-pip git``` \
   Устанавливаем yandex-cli - https://cloud.yandex.ru/docs/cli/operations/install-cli
 
 2) Скачиваем Kubespray версии 2.17.1 и установим зависимости для Kubespray
